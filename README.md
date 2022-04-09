@@ -5,3 +5,5 @@
 #player A can press "w" & "s" to move the paddle up & down respectively.
 #player B can press up arrow & down arrow.
 
+#screenshot
+![ Game screen] (https://raw.githubusercontent.com/RutujaBharde/pong-game/main/pong.png)
